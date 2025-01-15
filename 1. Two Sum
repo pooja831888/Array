@@ -16,5 +16,5 @@ class Solution {
     
     }
 }
-
+using hashing
 time c=o(n)
